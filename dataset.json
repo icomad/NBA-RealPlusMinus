@@ -1,0 +1,3930 @@
+[
+  {
+    "name": "Paul George",
+    "mpg": "36.3",
+    "orpm": "4.98",
+    "drpm": "3.46",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Anthony Davis",
+    "mpg": "36.0",
+    "orpm": "3.36",
+    "drpm": "3.07",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Kevin Durant",
+    "mpg": "35.4",
+    "orpm": "4.76",
+    "drpm": "0.70",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Stephen Curry",
+    "mpg": "34.3",
+    "orpm": "5.98",
+    "drpm": "-0.59",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "LeBron James",
+    "mpg": "34.9",
+    "orpm": "3.35",
+    "drpm": "1.84",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Kyrie Irving",
+    "mpg": "32.5",
+    "orpm": "4.44",
+    "drpm": "0.75",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Rudy Gobert",
+    "mpg": "31.6",
+    "orpm": "0.49",
+    "drpm": "4.67",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "mpg": "31.1",
+    "orpm": "1.71",
+    "drpm": "3.28",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Kyle Lowry",
+    "mpg": "34.4",
+    "orpm": "3.44",
+    "drpm": "1.48",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Joel Embiid",
+    "mpg": "33.7",
+    "orpm": "2.01",
+    "drpm": "2.28",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Eric Bledsoe",
+    "mpg": "29.1",
+    "orpm": "3.10",
+    "drpm": "1.18",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Damian Lillard",
+    "mpg": "35.3",
+    "orpm": "5.21",
+    "drpm": "-0.97",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Jrue Holiday",
+    "mpg": "36.4",
+    "orpm": "3.46",
+    "drpm": "0.74",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Jimmy Butler",
+    "mpg": "33.5",
+    "orpm": "2.93",
+    "drpm": "1.24",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "mpg": "33.1",
+    "orpm": "2.74",
+    "drpm": "1.28",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "mpg": "27.3",
+    "orpm": "0.31",
+    "drpm": "3.53",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Mike Conley",
+    "mpg": "33.5",
+    "orpm": "3.79",
+    "drpm": "0.02",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Pascal Siakam",
+    "mpg": "31.5",
+    "orpm": "1.89",
+    "drpm": "1.89",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Paul Millsap",
+    "mpg": "25.7",
+    "orpm": "0.93",
+    "drpm": "2.72",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Danny Green",
+    "mpg": "28.7",
+    "orpm": "1.42",
+    "drpm": "2.02",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Chris Paul",
+    "mpg": "32.5",
+    "orpm": "2.46",
+    "drpm": "0.93",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Marcus Smart",
+    "mpg": "27.0",
+    "orpm": "1.51",
+    "drpm": "1.87",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Kevon Looney",
+    "mpg": "20.8",
+    "orpm": "1.22",
+    "drpm": "2.01",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Daniel Theis",
+    "mpg": "15.2",
+    "orpm": "1.27",
+    "drpm": "1.95",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Marc Gasol",
+    "mpg": "33.0",
+    "orpm": "0.54",
+    "drpm": "2.65",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Blake Griffin",
+    "mpg": "36.3",
+    "orpm": "2.88",
+    "drpm": "0.22",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Joe Ingles",
+    "mpg": "31.1",
+    "orpm": "1.16",
+    "drpm": "1.88",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Andre Iguodala",
+    "mpg": "23.5",
+    "orpm": "0.31",
+    "drpm": "2.63",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Brook Lopez",
+    "mpg": "27.9",
+    "orpm": "0.40",
+    "drpm": "2.46",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Davis Bertans",
+    "mpg": "21.3",
+    "orpm": "2.35",
+    "drpm": "0.49",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Al Horford",
+    "mpg": "28.5",
+    "orpm": "0.95",
+    "drpm": "1.75",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Monte Morris",
+    "mpg": "25.0",
+    "orpm": "2.75",
+    "drpm": "-0.06",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "mpg": "34.8",
+    "orpm": "2.79",
+    "drpm": "-0.13",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Draymond Green",
+    "mpg": "31.1",
+    "orpm": "-1.11",
+    "drpm": "3.76",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Robert Covington",
+    "mpg": "34.4",
+    "orpm": "-0.48",
+    "drpm": "3.13",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Russell Westbrook",
+    "mpg": "35.6",
+    "orpm": "2.20",
+    "drpm": "0.42",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Kemba Walker",
+    "mpg": "34.4",
+    "orpm": "4.04",
+    "drpm": "-1.42",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "mpg": "33.2",
+    "orpm": "3.22",
+    "drpm": "2.92",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Nikola Jokic",
+    "mpg": "31.6",
+    "orpm": "4.60",
+    "drpm": "1.86",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "James Harden",
+    "mpg": "37.4",
+    "orpm": "7.65",
+    "drpm": "0.23",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "mpg": "23.3",
+    "orpm": "0.80",
+    "drpm": "1.81",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Rudy Gay",
+    "mpg": "27.3",
+    "orpm": "0.96",
+    "drpm": "1.55",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Marvin Williams",
+    "mpg": "28.3",
+    "orpm": "1.47",
+    "drpm": "0.73",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Victor Oladipo",
+    "mpg": "31.9",
+    "orpm": "1.27",
+    "drpm": "0.92",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "mpg": "25.4",
+    "orpm": "-1.98",
+    "drpm": "4.16",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "mpg": "29.2",
+    "orpm": "1.63",
+    "drpm": "0.49",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Dwight Powell",
+    "mpg": "17.5",
+    "orpm": "1.41",
+    "drpm": "0.70",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Josh Richardson",
+    "mpg": "34.7",
+    "orpm": "1.62",
+    "drpm": "0.39",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Luka Doncic",
+    "mpg": "32.2",
+    "orpm": "2.83",
+    "drpm": "-0.82",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Tobias Harris",
+    "mpg": "34.5",
+    "orpm": "1.97",
+    "drpm": "-0.02",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Al-Farouq Aminu",
+    "mpg": "29.0",
+    "orpm": "0.52",
+    "drpm": "1.42",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "mpg": "30.7",
+    "orpm": "2.99",
+    "drpm": "-0.54",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Thaddeus Young",
+    "mpg": "30.2",
+    "orpm": "1.05",
+    "drpm": "1.37",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Myles Turner",
+    "mpg": "28.2",
+    "orpm": "-1.90",
+    "drpm": "3.80",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Khris Middleton",
+    "mpg": "31.1",
+    "orpm": "1.42",
+    "drpm": "0.46",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Ed Davis",
+    "mpg": "18.3",
+    "orpm": "-1.53",
+    "drpm": "3.82",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Steven Adams",
+    "mpg": "33.9",
+    "orpm": "0.09",
+    "drpm": "1.82",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "mpg": "31.4",
+    "orpm": "1.46",
+    "drpm": "0.37",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Ben Simmons",
+    "mpg": "33.8",
+    "orpm": "0.96",
+    "drpm": "0.80",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Zaza Pachulia",
+    "mpg": "14.5",
+    "orpm": "-1.63",
+    "drpm": "3.38",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "mpg": "33.3",
+    "orpm": "1.30",
+    "drpm": "0.39",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Patrick Beverley",
+    "mpg": "26.8",
+    "orpm": "0.78",
+    "drpm": "0.88",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "JJ Redick",
+    "mpg": "31.2",
+    "orpm": "2.39",
+    "drpm": "-0.61",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Maximilian Kleber",
+    "mpg": "19.8",
+    "orpm": "-0.73",
+    "drpm": "2.37",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Willie Cauley-Stein",
+    "mpg": "28.1",
+    "orpm": "-0.45",
+    "drpm": "2.11",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Boban Marjanovic",
+    "mpg": "10.7",
+    "orpm": "-0.67",
+    "drpm": "2.29",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Jerami Grant",
+    "mpg": "32.3",
+    "orpm": "-0.10",
+    "drpm": "1.69",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Mason Plumlee",
+    "mpg": "20.6",
+    "orpm": "0.08",
+    "drpm": "1.55",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Nikola Mirotic",
+    "mpg": "28.9",
+    "orpm": "0.46",
+    "drpm": "1.08",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Darren Collison",
+    "mpg": "28.0",
+    "orpm": "1.34",
+    "drpm": "0.21",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "mpg": "24.8",
+    "orpm": "0.66",
+    "drpm": "0.87",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Mike Muscala",
+    "mpg": "22.0",
+    "orpm": "-0.41",
+    "drpm": "1.90",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Fred VanVleet",
+    "mpg": "26.8",
+    "orpm": "1.32",
+    "drpm": "0.21",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Derrick White",
+    "mpg": "25.3",
+    "orpm": "0.13",
+    "drpm": "1.35",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Cory Joseph",
+    "mpg": "25.7",
+    "orpm": "-0.07",
+    "drpm": "1.49",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Derrick Favors",
+    "mpg": "23.1",
+    "orpm": "-0.67",
+    "drpm": "2.05",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Nerlens Noel",
+    "mpg": "14.4",
+    "orpm": "-2.26",
+    "drpm": "3.63",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Andre Drummond",
+    "mpg": "33.0",
+    "orpm": "-0.69",
+    "drpm": "2.08",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "mpg": "30.5",
+    "orpm": "-2.09",
+    "drpm": "3.43",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "mpg": "30.1",
+    "orpm": "2.35",
+    "drpm": "-1.00",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "mpg": "20.3",
+    "orpm": "0.36",
+    "drpm": "0.94",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Montrezl Harrell",
+    "mpg": "26.4",
+    "orpm": "0.97",
+    "drpm": "0.28",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Jarrett Allen",
+    "mpg": "27.0",
+    "orpm": "-0.46",
+    "drpm": "1.55",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Tyson Chandler",
+    "mpg": "16.9",
+    "orpm": "-2.47",
+    "drpm": "3.52",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Jayson Tatum",
+    "mpg": "31.2",
+    "orpm": "0.23",
+    "drpm": "0.81",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Luke Kornet",
+    "mpg": "15.9",
+    "orpm": "-0.41",
+    "drpm": "1.44",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Aaron Gordon",
+    "mpg": "33.5",
+    "orpm": "0.44",
+    "drpm": "0.57",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "D.J. Augustin",
+    "mpg": "27.7",
+    "orpm": "2.39",
+    "drpm": "-1.44",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Nene Hilario",
+    "mpg": "13.6",
+    "orpm": "-1.66",
+    "drpm": "2.60",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "mpg": "26.2",
+    "orpm": "-0.13",
+    "drpm": "1.05",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Thomas Bryant",
+    "mpg": "19.1",
+    "orpm": "-0.56",
+    "drpm": "1.48",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Jeremy Lamb",
+    "mpg": "28.6",
+    "orpm": "0.84",
+    "drpm": "0.07",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "mpg": "19.0",
+    "orpm": "-0.94",
+    "drpm": "1.83",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Noah Vonleh",
+    "mpg": "25.6",
+    "orpm": "-0.79",
+    "drpm": "1.63",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Aron Baynes",
+    "mpg": "14.9",
+    "orpm": "-1.21",
+    "drpm": "2.44",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Justise Winslow",
+    "mpg": "29.7",
+    "orpm": "-0.22",
+    "drpm": "1.42",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Otto Porter Jr.",
+    "mpg": "29.6",
+    "orpm": "0.96",
+    "drpm": "0.14",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Mitchell Robinson",
+    "mpg": "17.9",
+    "orpm": "-0.36",
+    "drpm": "1.18",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "mpg": "23.4",
+    "orpm": "-1.38",
+    "drpm": "2.19",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Meyers Leonard",
+    "mpg": "14.5",
+    "orpm": "0.89",
+    "drpm": "-0.09",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "mpg": "32.7",
+    "orpm": "0.68",
+    "drpm": "0.11",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Cody Zeller",
+    "mpg": "24.9",
+    "orpm": "-0.70",
+    "drpm": "1.48",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Bradley Beal",
+    "mpg": "37.2",
+    "orpm": "2.61",
+    "drpm": "-1.84",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Ryan Arcidiacono",
+    "mpg": "24.6",
+    "orpm": "0.61",
+    "drpm": "0.16",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Taj Gibson",
+    "mpg": "25.0",
+    "orpm": "-0.11",
+    "drpm": "0.83",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Joe Harris",
+    "mpg": "30.1",
+    "orpm": "2.14",
+    "drpm": "-1.44",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "PJ Tucker",
+    "mpg": "35.4",
+    "orpm": "-0.91",
+    "drpm": "1.60",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Buddy Hield",
+    "mpg": "31.6",
+    "orpm": "1.69",
+    "drpm": "-1.07",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Jonas Jerebko",
+    "mpg": "18.3",
+    "orpm": "0.93",
+    "drpm": "-0.32",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Lou Williams",
+    "mpg": "26.1",
+    "orpm": "3.64",
+    "drpm": "-3.07",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Reggie Jackson",
+    "mpg": "29.1",
+    "orpm": "1.73",
+    "drpm": "-1.12",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Josh Hart",
+    "mpg": "26.4",
+    "orpm": "-1.17",
+    "drpm": "1.70",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Pau Gasol",
+    "mpg": "12.5",
+    "orpm": "-1.96",
+    "drpm": "2.52",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Ricky Rubio",
+    "mpg": "28.7",
+    "orpm": "-0.02",
+    "drpm": "0.51",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "CJ McCollum",
+    "mpg": "34.0",
+    "orpm": "2.04",
+    "drpm": "-1.56",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "George Hill",
+    "mpg": "22.5",
+    "orpm": "-0.37",
+    "drpm": "0.82",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Marcus Morris",
+    "mpg": "27.7",
+    "orpm": "1.14",
+    "drpm": "-0.73",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Gary Harris",
+    "mpg": "29.9",
+    "orpm": "0.15",
+    "drpm": "0.28",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Jakob Poeltl",
+    "mpg": "14.8",
+    "orpm": "-0.15",
+    "drpm": "0.55",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "mpg": "24.8",
+    "orpm": "-0.97",
+    "drpm": "1.36",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "mpg": "35.3",
+    "orpm": "0.26",
+    "drpm": "0.10",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Tomas Satoransky",
+    "mpg": "24.5",
+    "orpm": "0.12",
+    "drpm": "0.17",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Tyus Jones",
+    "mpg": "20.3",
+    "orpm": "-0.93",
+    "drpm": "1.22",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Langston Galloway",
+    "mpg": "21.3",
+    "orpm": "2.22",
+    "drpm": "-1.96",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Danuel House Jr.",
+    "mpg": "24.8",
+    "orpm": "0.44",
+    "drpm": "-0.18",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Patty Mills",
+    "mpg": "23.8",
+    "orpm": "2.57",
+    "drpm": "-2.34",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Salah Mejri",
+    "mpg": "6.8",
+    "orpm": "-1.72",
+    "drpm": "1.91",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "D.J. Wilson",
+    "mpg": "18.2",
+    "orpm": "-1.41",
+    "drpm": "1.59",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Ian Mahinmi",
+    "mpg": "14.4",
+    "orpm": "-2.48",
+    "drpm": "2.62",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Mikal Bridges",
+    "mpg": "27.8",
+    "orpm": "-0.40",
+    "drpm": "0.54",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Ivica Zubac",
+    "mpg": "16.0",
+    "orpm": "-1.79",
+    "drpm": "1.91",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Delon Wright",
+    "mpg": "18.9",
+    "orpm": "-0.32",
+    "drpm": "0.43",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Jamal Murray",
+    "mpg": "33.5",
+    "orpm": "1.31",
+    "drpm": "-1.20",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Malik Beasley",
+    "mpg": "24.1",
+    "orpm": "2.11",
+    "drpm": "-2.01",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Jake Layman",
+    "mpg": "18.3",
+    "orpm": "0.15",
+    "drpm": "-0.07",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Lonzo Ball",
+    "mpg": "30.3",
+    "orpm": "-1.02",
+    "drpm": "1.10",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Cheick Diallo",
+    "mpg": "11.2",
+    "orpm": "-1.57",
+    "drpm": "1.56",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Jae Crowder",
+    "mpg": "27.4",
+    "orpm": "0.58",
+    "drpm": "-0.62",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Juan Hernangomez",
+    "mpg": "22.5",
+    "orpm": "-0.21",
+    "drpm": "0.17",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "John Collins",
+    "mpg": "29.7",
+    "orpm": "1.54",
+    "drpm": "-1.60",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Tyreke Evans",
+    "mpg": "20.4",
+    "orpm": "-0.56",
+    "drpm": "0.47",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Evan Fournier",
+    "mpg": "31.5",
+    "orpm": "0.91",
+    "drpm": "-1.00",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "David Nwaba",
+    "mpg": "18.4",
+    "orpm": "-0.97",
+    "drpm": "0.88",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "mpg": "10.8",
+    "orpm": "-1.75",
+    "drpm": "1.64",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Jeff Green",
+    "mpg": "27.8",
+    "orpm": "0.74",
+    "drpm": "-0.87",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Alex Len",
+    "mpg": "19.1",
+    "orpm": "-1.67",
+    "drpm": "1.54",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Jeff Teague",
+    "mpg": "30.2",
+    "orpm": "0.26",
+    "drpm": "-0.40",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Raul Neto",
+    "mpg": "12.0",
+    "orpm": "0.11",
+    "drpm": "-0.25",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Kyle Anderson",
+    "mpg": "29.8",
+    "orpm": "-2.55",
+    "drpm": "2.40",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "mpg": "18.1",
+    "orpm": "-0.98",
+    "drpm": "0.83",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Wilson Chandler",
+    "mpg": "26.4",
+    "orpm": "-0.48",
+    "drpm": "0.32",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Wesley Matthews",
+    "mpg": "29.7",
+    "orpm": "0.18",
+    "drpm": "-0.34",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Eric Moreland",
+    "mpg": "5.0",
+    "orpm": "-1.71",
+    "drpm": "1.54",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Pat Connaughton",
+    "mpg": "16.9",
+    "orpm": "-0.39",
+    "drpm": "0.22",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Luol Deng",
+    "mpg": "17.2",
+    "orpm": "-0.67",
+    "drpm": "0.47",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Gordon Hayward",
+    "mpg": "26.0",
+    "orpm": "0.81",
+    "drpm": "-1.01",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Zach Collins",
+    "mpg": "18.2",
+    "orpm": "-1.04",
+    "drpm": "0.84",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Joakim Noah",
+    "mpg": "14.3",
+    "orpm": "-2.27",
+    "drpm": "2.58",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Omri Casspi",
+    "mpg": "14.4",
+    "orpm": "-0.91",
+    "drpm": "1.20",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "mpg": "28.0",
+    "orpm": "1.05",
+    "drpm": "-0.85",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Ersan Ilyasova",
+    "mpg": "17.7",
+    "orpm": "-1.48",
+    "drpm": "1.27",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Tony Snell",
+    "mpg": "17.3",
+    "orpm": "0.10",
+    "drpm": "-0.31",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Ekpe Udoh",
+    "mpg": "5.5",
+    "orpm": "-1.50",
+    "drpm": "1.24",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Kenneth Faried",
+    "mpg": "20.0",
+    "orpm": "-0.42",
+    "drpm": "0.12",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "John Henson",
+    "mpg": "13.4",
+    "orpm": "-1.58",
+    "drpm": "1.27",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "mpg": "26.0",
+    "orpm": "-1.82",
+    "drpm": "1.51",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Rodney Hood",
+    "mpg": "27.1",
+    "orpm": "0.64",
+    "drpm": "-0.96",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Semi Ojeleye",
+    "mpg": "10.7",
+    "orpm": "-1.46",
+    "drpm": "1.14",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "T.J. Warren",
+    "mpg": "31.6",
+    "orpm": "0.41",
+    "drpm": "-0.76",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Kyle Kuzma",
+    "mpg": "32.7",
+    "orpm": "0.55",
+    "drpm": "-0.90",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Clint Capela",
+    "mpg": "34.2",
+    "orpm": "-0.94",
+    "drpm": "0.57",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Serge Ibaka",
+    "mpg": "28.8",
+    "orpm": "-0.01",
+    "drpm": "-0.37",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Nicolas Batum",
+    "mpg": "31.2",
+    "orpm": "-0.13",
+    "drpm": "-0.29",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "mpg": "31.8",
+    "orpm": "0.89",
+    "drpm": "-1.31",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Julius Randle",
+    "mpg": "29.5",
+    "orpm": "1.12",
+    "drpm": "-1.56",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Ryan Broekhoff",
+    "mpg": "8.0",
+    "orpm": "-0.79",
+    "drpm": "0.34",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "mpg": "26.1",
+    "orpm": "-1.99",
+    "drpm": "1.78",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Bam Adebayo",
+    "mpg": "22.1",
+    "orpm": "-1.67",
+    "drpm": "1.45",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Kevin Huerter",
+    "mpg": "27.3",
+    "orpm": "0.09",
+    "drpm": "-0.31",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Terry Rozier",
+    "mpg": "23.3",
+    "orpm": "-0.55",
+    "drpm": "0.09",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Klay Thompson",
+    "mpg": "34.1",
+    "orpm": "1.52",
+    "drpm": "-2.00",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Khem Birch",
+    "mpg": "10.9",
+    "orpm": "-1.25",
+    "drpm": "0.75",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Richaun Holmes",
+    "mpg": "16.5",
+    "orpm": "-0.81",
+    "drpm": "0.30",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Lauri Markkanen",
+    "mpg": "32.3",
+    "orpm": "-0.38",
+    "drpm": "-0.10",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Jaylen Brown",
+    "mpg": "26.0",
+    "orpm": "-1.33",
+    "drpm": "0.81",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Harrison Barnes",
+    "mpg": "32.5",
+    "orpm": "-0.18",
+    "drpm": "-0.35",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Michael Kidd-Gilchrist",
+    "mpg": "19.7",
+    "orpm": "-1.33",
+    "drpm": "0.80",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "mpg": "28.6",
+    "orpm": "2.40",
+    "drpm": "-2.95",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Tyler Davis",
+    "mpg": "1.0",
+    "orpm": "-1.67",
+    "drpm": "1.12",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Damian Jones",
+    "mpg": "17.1",
+    "orpm": "-1.36",
+    "drpm": "0.84",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Seth Curry",
+    "mpg": "17.2",
+    "orpm": "-0.39",
+    "drpm": "-0.18",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Royce O'Neale",
+    "mpg": "18.7",
+    "orpm": "-1.84",
+    "drpm": "1.27",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Ivan Rabb",
+    "mpg": "11.0",
+    "orpm": "-1.15",
+    "drpm": "0.57",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Landry Shamet",
+    "mpg": "20.9",
+    "orpm": "1.72",
+    "drpm": "-2.32",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Shabazz Napier",
+    "mpg": "18.1",
+    "orpm": "0.63",
+    "drpm": "-1.19",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Thomas Welsh",
+    "mpg": "3.7",
+    "orpm": "-1.87",
+    "drpm": "1.26",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Brad Wanamaker",
+    "mpg": "9.3",
+    "orpm": "-0.97",
+    "drpm": "0.35",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Dwight Howard",
+    "mpg": "25.6",
+    "orpm": "-2.05",
+    "drpm": "1.41",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Luc Mbah a Moute",
+    "mpg": "15.3",
+    "orpm": "-2.04",
+    "drpm": "1.39",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "mpg": "32.2",
+    "orpm": "1.04",
+    "drpm": "-1.69",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Alan Williams",
+    "mpg": "5.7",
+    "orpm": "-1.87",
+    "drpm": "1.21",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Henry Ellenson",
+    "mpg": "12.5",
+    "orpm": "-1.77",
+    "drpm": "1.05",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Terrence Ross",
+    "mpg": "26.3",
+    "orpm": "0.47",
+    "drpm": "-1.25",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Devin Booker",
+    "mpg": "34.8",
+    "orpm": "2.40",
+    "drpm": "-3.18",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Frank Kaminsky",
+    "mpg": "10.8",
+    "orpm": "-1.60",
+    "drpm": "0.81",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "J.J. Barea",
+    "mpg": "19.8",
+    "orpm": "0.24",
+    "drpm": "-1.05",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Darius Miller",
+    "mpg": "25.4",
+    "orpm": "0.16",
+    "drpm": "-0.97",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Udonis Haslem",
+    "mpg": "3.8",
+    "orpm": "-2.21",
+    "drpm": "1.39",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "mpg": "15.2",
+    "orpm": "-2.15",
+    "drpm": "1.31",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "mpg": "24.0",
+    "orpm": "1.26",
+    "drpm": "-2.11",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Jahlil Okafor",
+    "mpg": "15.0",
+    "orpm": "-1.45",
+    "drpm": "0.59",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Quincy Acy",
+    "mpg": "12.3",
+    "orpm": "-1.97",
+    "drpm": "1.08",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "T.J. Leaf",
+    "mpg": "8.0",
+    "orpm": "-1.87",
+    "drpm": "0.98",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Kevin Love",
+    "mpg": "26.3",
+    "orpm": "-2.15",
+    "drpm": "1.40",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Jason Smith",
+    "mpg": "9.4",
+    "orpm": "-2.60",
+    "drpm": "1.67",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Moritz Wagner",
+    "mpg": "6.6",
+    "orpm": "-1.90",
+    "drpm": "0.96",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Norman Powell",
+    "mpg": "18.8",
+    "orpm": "0.15",
+    "drpm": "-1.10",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Zhou Qi",
+    "mpg": "1.0",
+    "orpm": "-1.87",
+    "drpm": "0.90",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Ray Spalding",
+    "mpg": "1.0",
+    "orpm": "-1.98",
+    "drpm": "1.00",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Drew Eubanks",
+    "mpg": "4.9",
+    "orpm": "-1.76",
+    "drpm": "0.77",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Wayne Ellington",
+    "mpg": "21.7",
+    "orpm": "-0.80",
+    "drpm": "-0.20",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Thon Maker",
+    "mpg": "11.8",
+    "orpm": "-1.99",
+    "drpm": "0.99",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Emanuel Terry",
+    "mpg": "10.0",
+    "orpm": "-1.85",
+    "drpm": "0.85",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Christian Wood",
+    "mpg": "4.7",
+    "orpm": "-1.99",
+    "drpm": "0.98",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Amir Johnson",
+    "mpg": "9.6",
+    "orpm": "-1.55",
+    "drpm": "0.52",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Kent Bazemore",
+    "mpg": "25.5",
+    "orpm": "-2.09",
+    "drpm": "1.06",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "mpg": "25.3",
+    "orpm": "-0.81",
+    "drpm": "-0.22",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Ike Anigbogu",
+    "mpg": "2.0",
+    "orpm": "-2.13",
+    "drpm": "1.10",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "mpg": "8.1",
+    "orpm": "-1.90",
+    "drpm": "0.86",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Isaiah Hicks",
+    "mpg": "4.0",
+    "orpm": "-1.93",
+    "drpm": "0.88",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Yogi Ferrell",
+    "mpg": "15.1",
+    "orpm": "0.24",
+    "drpm": "-1.30",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Gerald Green",
+    "mpg": "21.3",
+    "orpm": "1.10",
+    "drpm": "-2.17",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Goran Dragic",
+    "mpg": "29.1",
+    "orpm": "-1.19",
+    "drpm": "0.11",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "John Wall",
+    "mpg": "34.5",
+    "orpm": "-0.05",
+    "drpm": "-1.03",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Bruno Caboclo",
+    "mpg": "20.2",
+    "orpm": "-1.71",
+    "drpm": "0.63",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Jeremy Lin",
+    "mpg": "19.8",
+    "orpm": "0.26",
+    "drpm": "-1.35",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Miles Plumlee",
+    "mpg": "9.6",
+    "orpm": "-1.63",
+    "drpm": "0.52",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "mpg": "34.7",
+    "orpm": "0.28",
+    "drpm": "-1.20",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Deonte Burton",
+    "mpg": "9.4",
+    "orpm": "-1.77",
+    "drpm": "1.06",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Angel Delgado",
+    "mpg": "14.0",
+    "orpm": "-2.19",
+    "drpm": "1.49",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Deandre Ayton",
+    "mpg": "30.9",
+    "orpm": "-1.62",
+    "drpm": "0.51",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Amile Jefferson",
+    "mpg": "4.0",
+    "orpm": "-2.00",
+    "drpm": "0.88",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Zach LaVine",
+    "mpg": "34.0",
+    "orpm": "1.04",
+    "drpm": "-2.16",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Trevor Ariza",
+    "mpg": "35.4",
+    "orpm": "0.38",
+    "drpm": "-1.52",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "DeMarre Carroll",
+    "mpg": "25.7",
+    "orpm": "-0.41",
+    "drpm": "-0.73",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Robin Lopez",
+    "mpg": "17.8",
+    "orpm": "-2.63",
+    "drpm": "1.47",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Caris LeVert",
+    "mpg": "28.5",
+    "orpm": "-0.54",
+    "drpm": "-0.63",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Kadeem Allen",
+    "mpg": "22.5",
+    "orpm": "-0.41",
+    "drpm": "-0.78",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Courtney Lee",
+    "mpg": "11.6",
+    "orpm": "-1.54",
+    "drpm": "0.32",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Jonah Bolden",
+    "mpg": "12.5",
+    "orpm": "-2.32",
+    "drpm": "1.10",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Michael Beasley",
+    "mpg": "10.7",
+    "orpm": "-1.82",
+    "drpm": "0.59",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "James Ennis III",
+    "mpg": "23.0",
+    "orpm": "-0.53",
+    "drpm": "-0.72",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Jarell Martin",
+    "mpg": "7.9",
+    "orpm": "-2.62",
+    "drpm": "1.44",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Raymond Felton",
+    "mpg": "12.4",
+    "orpm": "-1.74",
+    "drpm": "0.50",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Sam Dekker",
+    "mpg": "17.1",
+    "orpm": "-1.26",
+    "drpm": "0.01",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Derrick Rose",
+    "mpg": "28.5",
+    "orpm": "1.66",
+    "drpm": "-2.92",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Dario Saric",
+    "mpg": "24.8",
+    "orpm": "0.24",
+    "drpm": "-1.50",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Bryn Forbes",
+    "mpg": "28.5",
+    "orpm": "0.33",
+    "drpm": "-1.62",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Kyle Korver",
+    "mpg": "18.7",
+    "orpm": "-0.37",
+    "drpm": "-0.94",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Maurice Harkless",
+    "mpg": "21.4",
+    "orpm": "-2.39",
+    "drpm": "1.08",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Anthony Tolliver",
+    "mpg": "14.8",
+    "orpm": "-1.75",
+    "drpm": "0.43",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Donte Grantham",
+    "mpg": "2.0",
+    "orpm": "-2.06",
+    "drpm": "0.74",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "DeVaughn Akoon-Purcell",
+    "mpg": "3.1",
+    "orpm": "-1.07",
+    "drpm": "-0.25",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Dante Exum",
+    "mpg": "16.3",
+    "orpm": "-0.99",
+    "drpm": "-0.35",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Ante Zizic",
+    "mpg": "16.4",
+    "orpm": "-2.64",
+    "drpm": "1.30",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Dwayne Bacon",
+    "mpg": "10.6",
+    "orpm": "-1.27",
+    "drpm": "-0.08",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Tyler Lydon",
+    "mpg": "4.1",
+    "orpm": "-2.16",
+    "drpm": "0.81",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Tony Bradley",
+    "mpg": "9.0",
+    "orpm": "-2.17",
+    "drpm": "0.80",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Devin Robinson",
+    "mpg": "8.0",
+    "orpm": "-1.83",
+    "drpm": "0.44",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Marcin Gortat",
+    "mpg": "16.0",
+    "orpm": "-3.20",
+    "drpm": "1.80",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Doug McDermott",
+    "mpg": "17.3",
+    "orpm": "-0.48",
+    "drpm": "-0.93",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Shake Milton",
+    "mpg": "9.7",
+    "orpm": "-1.30",
+    "drpm": "-0.11",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Jared Dudley",
+    "mpg": "22.0",
+    "orpm": "-1.57",
+    "drpm": "0.14",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Duncan Robinson",
+    "mpg": "6.0",
+    "orpm": "-2.08",
+    "drpm": "0.63",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Chandler Parsons",
+    "mpg": "15.3",
+    "orpm": "-2.21",
+    "drpm": "0.75",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Reggie Bullock",
+    "mpg": "30.9",
+    "orpm": "0.42",
+    "drpm": "-1.88",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Demetrius Jackson",
+    "mpg": "6.5",
+    "orpm": "-0.74",
+    "drpm": "-0.72",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Ron Baker",
+    "mpg": "10.1",
+    "orpm": "-1.56",
+    "drpm": "0.09",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Vincent Edwards",
+    "mpg": "8.0",
+    "orpm": "-2.05",
+    "drpm": "0.58",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Devin Harris",
+    "mpg": "15.0",
+    "orpm": "-0.34",
+    "drpm": "-1.14",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "mpg": "4.7",
+    "orpm": "-2.31",
+    "drpm": "0.83",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Garrett Temple",
+    "mpg": "30.6",
+    "orpm": "-1.88",
+    "drpm": "0.39",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Kyle O'Quinn",
+    "mpg": "7.0",
+    "orpm": "-2.53",
+    "drpm": "1.00",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Elfrid Payton",
+    "mpg": "26.9",
+    "orpm": "-1.19",
+    "drpm": "-0.34",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "mpg": "5.7",
+    "orpm": "-2.04",
+    "drpm": "0.51",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Justin Jackson",
+    "mpg": "19.9",
+    "orpm": "-0.64",
+    "drpm": "-0.90",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Terrance Ferguson",
+    "mpg": "24.4",
+    "orpm": "-0.68",
+    "drpm": "-0.89",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "mpg": "4.5",
+    "orpm": "-1.76",
+    "drpm": "0.19",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Troy Caupain",
+    "mpg": "4.5",
+    "orpm": "-1.50",
+    "drpm": "-0.08",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Quincy Pondexter",
+    "mpg": "5.7",
+    "orpm": "-1.85",
+    "drpm": "0.24",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Chris Boucher",
+    "mpg": "5.5",
+    "orpm": "-1.87",
+    "drpm": "0.26",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Kosta Koufos",
+    "mpg": "12.2",
+    "orpm": "-2.65",
+    "drpm": "1.03",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Iman Shumpert",
+    "mpg": "26.0",
+    "orpm": "-0.67",
+    "drpm": "-0.95",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Johnathan Williams",
+    "mpg": "12.7",
+    "orpm": "-1.73",
+    "drpm": "0.10",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Milos Teodosic",
+    "mpg": "10.0",
+    "orpm": "-1.03",
+    "drpm": "-0.61",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Julian Washburn",
+    "mpg": "18.3",
+    "orpm": "-2.48",
+    "drpm": "0.84",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Khyri Thomas",
+    "mpg": "8.9",
+    "orpm": "-1.45",
+    "drpm": "-0.19",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Jon Leuer",
+    "mpg": "10.8",
+    "orpm": "-2.54",
+    "drpm": "0.89",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Emmanuel Mudiay",
+    "mpg": "26.6",
+    "orpm": "-0.03",
+    "drpm": "-1.62",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "PJ Dozier",
+    "mpg": "2.5",
+    "orpm": "-1.89",
+    "drpm": "0.24",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Jaylen Morris",
+    "mpg": "7.3",
+    "orpm": "-1.05",
+    "drpm": "-0.60",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Isaac Bonga",
+    "mpg": "3.9",
+    "orpm": "-2.26",
+    "drpm": "0.60",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "mpg": "14.2",
+    "orpm": "-0.32",
+    "drpm": "-1.35",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Isaiah Thomas",
+    "mpg": "13.0",
+    "orpm": "-1.25",
+    "drpm": "-0.43",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Tony Parker",
+    "mpg": "18.2",
+    "orpm": "-0.72",
+    "drpm": "-0.97",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Alex Abrines",
+    "mpg": "19.0",
+    "orpm": "-2.60",
+    "drpm": "0.91",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Daryl Macon",
+    "mpg": "2.0",
+    "orpm": "-1.34",
+    "drpm": "-0.36",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "JR Smith",
+    "mpg": "20.2",
+    "orpm": "-2.54",
+    "drpm": "0.83",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Justin Holiday",
+    "mpg": "32.6",
+    "orpm": "-2.00",
+    "drpm": "0.29",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Tim Frazier",
+    "mpg": "19.3",
+    "orpm": "-0.72",
+    "drpm": "-0.99",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Trey Burke",
+    "mpg": "20.1",
+    "orpm": "-0.12",
+    "drpm": "-1.62",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "DJ Stephens",
+    "mpg": "7.0",
+    "orpm": "-1.33",
+    "drpm": "-0.43",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Bobby Portis",
+    "mpg": "24.9",
+    "orpm": "-0.25",
+    "drpm": "-1.51",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Marco Belinelli",
+    "mpg": "22.7",
+    "orpm": "1.53",
+    "drpm": "-3.30",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Enes Kanter",
+    "mpg": "25.6",
+    "orpm": "-0.32",
+    "drpm": "-1.46",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "mpg": "16.6",
+    "orpm": "-0.92",
+    "drpm": "-0.86",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Ish Smith",
+    "mpg": "22.3",
+    "orpm": "-1.57",
+    "drpm": "-0.22",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Rodions Kurucs",
+    "mpg": "20.9",
+    "orpm": "-1.21",
+    "drpm": "-0.29",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Mike Scott",
+    "mpg": "14.6",
+    "orpm": "-1.76",
+    "drpm": "0.26",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Jalen Jones",
+    "mpg": "13.4",
+    "orpm": "-1.23",
+    "drpm": "-0.27",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Davon Reed",
+    "mpg": "2.9",
+    "orpm": "-1.66",
+    "drpm": "-0.14",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Marcus Derrickson",
+    "mpg": "6.0",
+    "orpm": "-1.86",
+    "drpm": "0.06",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Dzanan Musa",
+    "mpg": "4.3",
+    "orpm": "-2.44",
+    "drpm": "0.63",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Nick Young",
+    "mpg": "9.3",
+    "orpm": "-1.77",
+    "drpm": "-0.05",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Brandon Sampson",
+    "mpg": "7.0",
+    "orpm": "-1.37",
+    "drpm": "-0.45",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Dion Waiters",
+    "mpg": "22.6",
+    "orpm": "-1.22",
+    "drpm": "-0.62",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Wendell Carter Jr.",
+    "mpg": "25.2",
+    "orpm": "-3.93",
+    "drpm": "2.09",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "mpg": "13.4",
+    "orpm": "-1.57",
+    "drpm": "-0.28",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Lance Thomas",
+    "mpg": "16.5",
+    "orpm": "-3.42",
+    "drpm": "1.55",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Johnathan Motley",
+    "mpg": "8.1",
+    "orpm": "-1.98",
+    "drpm": "0.11",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Jaylen Adams",
+    "mpg": "4.5",
+    "orpm": "-1.23",
+    "drpm": "-0.58",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Rajon Rondo",
+    "mpg": "28.0",
+    "orpm": "-1.24",
+    "drpm": "-0.65",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Joe Chealey",
+    "mpg": "8.0",
+    "orpm": "-1.41",
+    "drpm": "-0.48",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "George King",
+    "mpg": "6.0",
+    "orpm": "-1.94",
+    "drpm": "0.05",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Rawle Alkins",
+    "mpg": "2.0",
+    "orpm": "-1.62",
+    "drpm": "-0.19",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Justin Anderson",
+    "mpg": "8.1",
+    "orpm": "-2.22",
+    "drpm": "0.29",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Kenrich Williams",
+    "mpg": "17.3",
+    "orpm": "-1.83",
+    "drpm": "-0.12",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "mpg": "15.6",
+    "orpm": "-1.72",
+    "drpm": "-0.23",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "James Johnson",
+    "mpg": "21.2",
+    "orpm": "-2.21",
+    "drpm": "0.25",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Trevon Duval",
+    "mpg": "2.0",
+    "orpm": "-1.22",
+    "drpm": "-0.74",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Jordan Loyd",
+    "mpg": "4.5",
+    "orpm": "-1.64",
+    "drpm": "-0.33",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Tristan Thompson",
+    "mpg": "29.8",
+    "orpm": "-1.16",
+    "drpm": "-0.82",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Troy Daniels",
+    "mpg": "13.2",
+    "orpm": "-1.51",
+    "drpm": "-0.47",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Lance Stephenson",
+    "mpg": "16.1",
+    "orpm": "-0.41",
+    "drpm": "-1.58",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Alex Caruso",
+    "mpg": "4.0",
+    "orpm": "-1.84",
+    "drpm": "-0.15",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Yuta Watanabe",
+    "mpg": "9.8",
+    "orpm": "-2.44",
+    "drpm": "0.45",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Vince Carter",
+    "mpg": "15.8",
+    "orpm": "-1.72",
+    "drpm": "-0.29",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Jaron Blossomgame",
+    "mpg": "16.3",
+    "orpm": "-2.13",
+    "drpm": "0.12",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "T.J. McConnell",
+    "mpg": "20.7",
+    "orpm": "-0.43",
+    "drpm": "-1.62",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Skal Labissiere",
+    "mpg": "8.1",
+    "orpm": "-2.17",
+    "drpm": "0.12",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Chasson Randle",
+    "mpg": "15.6",
+    "orpm": "-0.75",
+    "drpm": "-1.31",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Dennis Schroder",
+    "mpg": "28.3",
+    "orpm": "0.23",
+    "drpm": "-2.29",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Alfonzo McKinnie",
+    "mpg": "14.1",
+    "orpm": "-1.09",
+    "drpm": "-1.00",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Willy Hernangomez",
+    "mpg": "13.7",
+    "orpm": "-0.85",
+    "drpm": "-1.24",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Ryan Anderson",
+    "mpg": "17.5",
+    "orpm": "-3.37",
+    "drpm": "1.26",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Alex Poythress",
+    "mpg": "13.5",
+    "orpm": "-1.49",
+    "drpm": "-0.63",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Tyler Ulis",
+    "mpg": "1.0",
+    "orpm": "-1.07",
+    "drpm": "-1.07",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Shaun Livingston",
+    "mpg": "15.3",
+    "orpm": "-2.54",
+    "drpm": "0.61",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Zach Lofton",
+    "mpg": "4.0",
+    "orpm": "-1.37",
+    "drpm": "-0.55",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Eric Gordon",
+    "mpg": "32.4",
+    "orpm": "1.10",
+    "drpm": "-2.91",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Luke Kennard",
+    "mpg": "20.9",
+    "orpm": "-1.44",
+    "drpm": "-0.72",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "James Nunnally",
+    "mpg": "6.8",
+    "orpm": "-1.29",
+    "drpm": "-0.89",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "mpg": "27.0",
+    "orpm": "-0.05",
+    "drpm": "-2.14",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Theo Pinson",
+    "mpg": "14.6",
+    "orpm": "-2.53",
+    "drpm": "0.34",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Ben McLemore",
+    "mpg": "8.3",
+    "orpm": "-1.43",
+    "drpm": "-0.78",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Troy Williams",
+    "mpg": "15.9",
+    "orpm": "-2.03",
+    "drpm": "-0.18",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Josh Okogie",
+    "mpg": "22.7",
+    "orpm": "-1.85",
+    "drpm": "-0.36",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Jordan McRae",
+    "mpg": "9.1",
+    "orpm": "-1.86",
+    "drpm": "-0.37",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Keita Bates-Diop",
+    "mpg": "5.7",
+    "orpm": "-2.43",
+    "drpm": "0.20",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "JaVale McGee",
+    "mpg": "21.7",
+    "orpm": "-3.31",
+    "drpm": "1.07",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Brandon Goodwin",
+    "mpg": "3.6",
+    "orpm": "-1.57",
+    "drpm": "-0.67",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "J.P. Macura",
+    "mpg": "14.0",
+    "orpm": "-1.99",
+    "drpm": "-0.25",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Jared Terrell",
+    "mpg": "9.6",
+    "orpm": "-1.78",
+    "drpm": "-0.47",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "mpg": "25.8",
+    "orpm": "-1.46",
+    "drpm": "-0.79",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "mpg": "29.4",
+    "orpm": "-2.51",
+    "drpm": "0.24",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Melvin Frazier Jr.",
+    "mpg": "4.6",
+    "orpm": "-2.22",
+    "drpm": "-0.05",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Robert Williams",
+    "mpg": "8.7",
+    "orpm": "-2.62",
+    "drpm": "0.35",
+    "color": "(0,122,51,1)",
+    "team": "BOS"
+  },
+  {
+    "name": "Gary Clark",
+    "mpg": "14.3",
+    "orpm": "-2.18",
+    "drpm": "-0.10",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Dennis Smith Jr.",
+    "mpg": "28.9",
+    "orpm": "-1.81",
+    "drpm": "-0.35",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Troy Brown Jr.",
+    "mpg": "7.2",
+    "orpm": "-1.56",
+    "drpm": "-0.74",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "Damion Lee",
+    "mpg": "11.9",
+    "orpm": "-1.81",
+    "drpm": "-0.50",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Marquese Chriss",
+    "mpg": "10.1",
+    "orpm": "-2.27",
+    "drpm": "-0.04",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Aaron Holiday",
+    "mpg": "11.8",
+    "orpm": "-1.58",
+    "drpm": "-0.73",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Sterling Brown",
+    "mpg": "16.2",
+    "orpm": "-1.60",
+    "drpm": "-0.72",
+    "color": "(0,71,27,1)",
+    "team": "MIL"
+  },
+  {
+    "name": "Brandon Knight",
+    "mpg": "10.7",
+    "orpm": "-1.83",
+    "drpm": "-0.50",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Stanley Johnson",
+    "mpg": "19.5",
+    "orpm": "-3.72",
+    "drpm": "1.38",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Andrew Harrison",
+    "mpg": "11.0",
+    "orpm": "-1.92",
+    "drpm": "-0.48",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Dwyane Wade",
+    "mpg": "25.4",
+    "orpm": "-0.37",
+    "drpm": "-2.04",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Trey Lyles",
+    "mpg": "18.6",
+    "orpm": "-2.26",
+    "drpm": "-0.16",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Rodney McGruder",
+    "mpg": "25.3",
+    "orpm": "-1.60",
+    "drpm": "-0.83",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Dillon Brooks",
+    "mpg": "18.3",
+    "orpm": "-2.04",
+    "drpm": "-0.39",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Brandon Ingram",
+    "mpg": "33.4",
+    "orpm": "-1.68",
+    "drpm": "-0.76",
+    "color": "(85,37,130,1)",
+    "team": "LAL"
+  },
+  {
+    "name": "Tyler Johnson",
+    "mpg": "25.7",
+    "orpm": "-0.99",
+    "drpm": "-1.47",
+    "color": "(152,0,46,1)",
+    "team": "MIA"
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "mpg": "4.3",
+    "orpm": "-2.42",
+    "drpm": "-0.04",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Treveon Graham",
+    "mpg": "22.8",
+    "orpm": "-2.75",
+    "drpm": "0.28",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Allen Crabbe",
+    "mpg": "26.0",
+    "orpm": "-1.52",
+    "drpm": "-0.97",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Cristiano Felicio",
+    "mpg": "10.2",
+    "orpm": "-2.05",
+    "drpm": "-0.44",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Alize Johnson",
+    "mpg": "2.9",
+    "orpm": "-2.38",
+    "drpm": "0.20",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Austin Rivers",
+    "mpg": "27.9",
+    "orpm": "-0.31",
+    "drpm": "-1.87",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Isaiah Briscoe",
+    "mpg": "13.4",
+    "orpm": "-2.55",
+    "drpm": "0.26",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "C.J. Williams",
+    "mpg": "7.4",
+    "orpm": "-2.09",
+    "drpm": "-0.42",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "OG Anunoby",
+    "mpg": "20.3",
+    "orpm": "-1.88",
+    "drpm": "-0.65",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Georges Niang",
+    "mpg": "7.4",
+    "orpm": "-1.50",
+    "drpm": "-1.04",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Deng Adel",
+    "mpg": "13.2",
+    "orpm": "-2.73",
+    "drpm": "0.18",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Kris Dunn",
+    "mpg": "31.3",
+    "orpm": "-1.88",
+    "drpm": "-0.69",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Markelle Fultz",
+    "mpg": "22.5",
+    "orpm": "-2.74",
+    "drpm": "0.20",
+    "color": "(196,206,211,1)",
+    "team": "PHI"
+  },
+  {
+    "name": "Caleb Swanigan",
+    "mpg": "8.1",
+    "orpm": "-3.36",
+    "drpm": "0.78",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Damyean Dotson",
+    "mpg": "24.7",
+    "orpm": "-0.83",
+    "drpm": "-1.77",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Jalen Brunson",
+    "mpg": "18.1",
+    "orpm": "-1.37",
+    "drpm": "-1.24",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "mpg": "11.0",
+    "orpm": "-2.29",
+    "drpm": "-0.34",
+    "color": "(0,83,188,1)",
+    "team": "DAL"
+  },
+  {
+    "name": "Tyler Dorsey",
+    "mpg": "9.3",
+    "orpm": "-2.06",
+    "drpm": "-0.57",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Malachi Richardson",
+    "mpg": "4.7",
+    "orpm": "-2.42",
+    "drpm": "-0.21",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Daniel Hamilton",
+    "mpg": "10.7",
+    "orpm": "-2.46",
+    "drpm": "-0.19",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Jerome Robinson",
+    "mpg": "9.5",
+    "orpm": "-1.53",
+    "drpm": "-1.12",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Dante Cunningham",
+    "mpg": "15.9",
+    "orpm": "-2.12",
+    "drpm": "-0.55",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Quinn Cook",
+    "mpg": "14.4",
+    "orpm": "-0.28",
+    "drpm": "-2.42",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Greg Monroe",
+    "mpg": "11.1",
+    "orpm": "-3.92",
+    "drpm": "1.21",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Isaiah Canaan",
+    "mpg": "23.0",
+    "orpm": "-1.40",
+    "drpm": "-1.31",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Mario Hezonja",
+    "mpg": "19.1",
+    "orpm": "-3.06",
+    "drpm": "0.33",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Torrey Craig",
+    "mpg": "22.4",
+    "orpm": "-1.64",
+    "drpm": "-1.11",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "Channing Frye",
+    "mpg": "9.5",
+    "orpm": "-2.44",
+    "drpm": "-0.36",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Sindarius Thornwell",
+    "mpg": "6.0",
+    "orpm": "-2.97",
+    "drpm": "0.15",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Patrick McCaw",
+    "mpg": "12.7",
+    "orpm": "-2.42",
+    "drpm": "-0.41",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Shaquille Harrison",
+    "mpg": "17.2",
+    "orpm": "-2.70",
+    "drpm": "-0.15",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Markieff Morris",
+    "mpg": "26.0",
+    "orpm": "-1.52",
+    "drpm": "-1.35",
+    "color": "(227,24,55,1)",
+    "team": "WAS"
+  },
+  {
+    "name": "MarShon Brooks",
+    "mpg": "13.3",
+    "orpm": "-1.53",
+    "drpm": "-1.35",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Jordan Bell",
+    "mpg": "11.1",
+    "orpm": "-2.62",
+    "drpm": "-0.27",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Lorenzo Brown",
+    "mpg": "8.2",
+    "orpm": "-2.68",
+    "drpm": "-0.22",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "E'Twaun Moore",
+    "mpg": "28.8",
+    "orpm": "-0.36",
+    "drpm": "-2.56",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Malik Monk",
+    "mpg": "18.5",
+    "orpm": "-0.05",
+    "drpm": "-2.87",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Sviatoslav Mykhailiuk",
+    "mpg": "10.7",
+    "orpm": "-2.34",
+    "drpm": "-0.62",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Wesley Johnson",
+    "mpg": "15.2",
+    "orpm": "-2.42",
+    "drpm": "-0.59",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Miles Bridges",
+    "mpg": "18.9",
+    "orpm": "-1.87",
+    "drpm": "-1.14",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Michael Carter-Williams",
+    "mpg": "9.1",
+    "orpm": "-2.03",
+    "drpm": "-1.01",
+    "color": "(190,17,65,1)",
+    "team": "HOU"
+  },
+  {
+    "name": "Devonte' Graham",
+    "mpg": "13.0",
+    "orpm": "-1.54",
+    "drpm": "-1.51",
+    "color": "(0,120,140,1)",
+    "team": "CHA"
+  },
+  {
+    "name": "Dragan Bender",
+    "mpg": "12.5",
+    "orpm": "-2.95",
+    "drpm": "-0.12",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Jabari Parker",
+    "mpg": "26.8",
+    "orpm": "-1.65",
+    "drpm": "-1.43",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Jawun Evans",
+    "mpg": "9.1",
+    "orpm": "-2.15",
+    "drpm": "-0.95",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Solomon Hill",
+    "mpg": "20.3",
+    "orpm": "-2.42",
+    "drpm": "-0.70",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "DeAndre' Bembry",
+    "mpg": "24.3",
+    "orpm": "-2.46",
+    "drpm": "-0.70",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Chimezie Metu",
+    "mpg": "5.2",
+    "orpm": "-3.37",
+    "drpm": "0.20",
+    "color": "(138,141,143,1)",
+    "team": "SAS"
+  },
+  {
+    "name": "Jerian Grant",
+    "mpg": "16.5",
+    "orpm": "-2.52",
+    "drpm": "-0.68",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "mpg": "27.1",
+    "orpm": "0.74",
+    "drpm": "-3.95",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "mpg": "22.4",
+    "orpm": "-3.12",
+    "drpm": "-0.15",
+    "color": "(0,0,0,1)",
+    "team": "BKN"
+  },
+  {
+    "name": "Omari Spellman",
+    "mpg": "17.2",
+    "orpm": "-1.98",
+    "drpm": "-1.30",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Josh Jackson",
+    "mpg": "24.2",
+    "orpm": "-2.46",
+    "drpm": "-0.84",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Alec Burks",
+    "mpg": "23.9",
+    "orpm": "-0.83",
+    "drpm": "-2.48",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Wesley Iwundu",
+    "mpg": "17.1",
+    "orpm": "-3.54",
+    "drpm": "0.23",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Tyrone Wallace",
+    "mpg": "10.4",
+    "orpm": "-2.89",
+    "drpm": "-0.45",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Evan Turner",
+    "mpg": "23.6",
+    "orpm": "-2.06",
+    "drpm": "-1.31",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Jacob Evans",
+    "mpg": "4.3",
+    "orpm": "-2.73",
+    "drpm": "-0.65",
+    "color": "(253,185,39,1)",
+    "team": "GSW"
+  },
+  {
+    "name": "Bruce Brown",
+    "mpg": "19.8",
+    "orpm": "-3.80",
+    "drpm": "0.41",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Trae Young",
+    "mpg": "30.1",
+    "orpm": "1.11",
+    "drpm": "-4.50",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Anfernee Simons",
+    "mpg": "5.0",
+    "orpm": "-2.72",
+    "drpm": "-0.67",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Glenn Robinson III",
+    "mpg": "13.7",
+    "orpm": "-3.65",
+    "drpm": "0.21",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Harry Giles",
+    "mpg": "12.9",
+    "orpm": "-3.43",
+    "drpm": "-0.10",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Patrick Patterson",
+    "mpg": "14.7",
+    "orpm": "-2.56",
+    "drpm": "-0.98",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Chandler Hutchison",
+    "mpg": "20.3",
+    "orpm": "-3.20",
+    "drpm": "-0.35",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Edmond Sumner",
+    "mpg": "9.8",
+    "orpm": "-3.24",
+    "drpm": "-0.40",
+    "color": "(253,187,48,1)",
+    "team": "IND"
+  },
+  {
+    "name": "Wade Baldwin IV",
+    "mpg": "5.9",
+    "orpm": "-2.58",
+    "drpm": "-1.08",
+    "color": "(224,58,62,1)",
+    "team": "POR"
+  },
+  {
+    "name": "Taurean Prince",
+    "mpg": "27.6",
+    "orpm": "-1.23",
+    "drpm": "-2.45",
+    "color": "(225,68,52,1)",
+    "team": "ATL"
+  },
+  {
+    "name": "Shelvin Mack",
+    "mpg": "22.3",
+    "orpm": "-1.44",
+    "drpm": "-2.26",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Hamidou Diallo",
+    "mpg": "11.4",
+    "orpm": "-2.15",
+    "drpm": "-1.56",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Cameron Payne",
+    "mpg": "17.8",
+    "orpm": "-1.36",
+    "drpm": "-2.36",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "JaMychal Green",
+    "mpg": "21.8",
+    "orpm": "-2.35",
+    "drpm": "-1.42",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Avery Bradley",
+    "mpg": "29.9",
+    "orpm": "-2.56",
+    "drpm": "-1.30",
+    "color": "(200,16,46,1)",
+    "team": "LAC"
+  },
+  {
+    "name": "Wayne Selden",
+    "mpg": "17.0",
+    "orpm": "-1.87",
+    "drpm": "-2.00",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Frank Mason III",
+    "mpg": "11.6",
+    "orpm": "-1.77",
+    "drpm": "-2.18",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Ian Clark",
+    "mpg": "13.0",
+    "orpm": "-2.43",
+    "drpm": "-1.53",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "Marvin Bagley III",
+    "mpg": "24.2",
+    "orpm": "-2.04",
+    "drpm": "-1.93",
+    "color": "(91,43,130,1)",
+    "team": "SAC"
+  },
+  {
+    "name": "Timothe Luwawu-Cabarrot",
+    "mpg": "7.9",
+    "orpm": "-3.45",
+    "drpm": "-0.54",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Abdel Nader",
+    "mpg": "10.1",
+    "orpm": "-2.51",
+    "drpm": "-1.49",
+    "color": "(0,125,195,1)",
+    "team": "OKC"
+  },
+  {
+    "name": "Elie Okobo",
+    "mpg": "18.9",
+    "orpm": "-2.97",
+    "drpm": "-1.07",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Jerryd Bayless",
+    "mpg": "21.2",
+    "orpm": "-1.77",
+    "drpm": "-2.41",
+    "color": "(12,35,64,1)",
+    "team": "MIN"
+  },
+  {
+    "name": "Cedi Osman",
+    "mpg": "31.4",
+    "orpm": "-1.13",
+    "drpm": "-3.11",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Jose Calderon",
+    "mpg": "13.5",
+    "orpm": "-3.20",
+    "drpm": "-1.11",
+    "color": "(190,16,46,1)",
+    "team": "DET"
+  },
+  {
+    "name": "Frank Jackson",
+    "mpg": "15.2",
+    "orpm": "-1.68",
+    "drpm": "-2.72",
+    "color": "(0,22,65,1)",
+    "team": "NOP"
+  },
+  {
+    "name": "CJ Miles",
+    "mpg": "14.7",
+    "orpm": "-2.01",
+    "drpm": "-1.22",
+    "color": "(186,12,47,1)",
+    "team": "TOR"
+  },
+  {
+    "name": "Will Barton",
+    "mpg": "26.6",
+    "orpm": "-1.64",
+    "drpm": "-1.62",
+    "color": "(13,34,64,1)",
+    "team": "DEN"
+  },
+  {
+    "name": "De'Anthony Melton",
+    "mpg": "20.5",
+    "orpm": "-3.12",
+    "drpm": "-0.10",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Jevon Carter",
+    "mpg": "15.2",
+    "orpm": "-3.79",
+    "drpm": "-0.77",
+    "color": "(93,118,169,1)",
+    "team": "MEM"
+  },
+  {
+    "name": "Mo Bamba",
+    "mpg": "16.3",
+    "orpm": "-3.98",
+    "drpm": "-0.59",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Frank Ntilikina",
+    "mpg": "21.3",
+    "orpm": "-3.28",
+    "drpm": "-1.44",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Jonathon Simmons",
+    "mpg": "19.9",
+    "orpm": "-3.87",
+    "drpm": "-0.92",
+    "color": "(0,125,197,1)",
+    "team": "ORL"
+  },
+  {
+    "name": "Nik Stauskas",
+    "mpg": "15.6",
+    "orpm": "-2.23",
+    "drpm": "-2.79",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Allonzo Trier",
+    "mpg": "22.0",
+    "orpm": "-2.01",
+    "drpm": "-2.88",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  },
+  {
+    "name": "Antonio Blakeney",
+    "mpg": "13.8",
+    "orpm": "-2.64",
+    "drpm": "-2.94",
+    "color": "(206,17,65,1)",
+    "team": "CHI"
+  },
+  {
+    "name": "Grayson Allen",
+    "mpg": "9.9",
+    "orpm": "-2.80",
+    "drpm": "-2.72",
+    "color": "(0,43,92,1)",
+    "team": "UTA"
+  },
+  {
+    "name": "Jamal Crawford",
+    "mpg": "17.6",
+    "orpm": "-2.67",
+    "drpm": "-3.28",
+    "color": "(29,17,96,1)",
+    "team": "PHX"
+  },
+  {
+    "name": "Collin Sexton",
+    "mpg": "30.4",
+    "orpm": "-1.98",
+    "drpm": "-4.26",
+    "color": "(111,38,61,1)",
+    "team": "CLE"
+  },
+  {
+    "name": "Kevin Knox",
+    "mpg": "28.2",
+    "orpm": "-3.29",
+    "drpm": "-3.79",
+    "color": "(245,132,38,1)",
+    "team": "NYK"
+  }
+]

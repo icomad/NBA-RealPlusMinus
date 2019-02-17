@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+.title {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  z-index: 9999;
+  font-size: 2em;
+  font-weight: 200;
+}
+
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.grad {
+  background-image: -webkit-gradient(linear, left bottom, right top, from(#ff7979), color-stop(40%, #f6e58d), color-stop(60%, #badc58), to(#20bf6b));
+  background-image: linear-gradient(left bottom, #ff7979 0%, #f6e58d 40%, #badc58 60%, #20bf6b 100%);
+}
+
+.over:hover {
+  position: relative;
+  z-index: 5;
+  stroke: rgba(0, 0, 0, 0.7);
+  stroke-width: 1;
+  fill: #787878;
+}
+
+.details {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  z-index: 10;
+  visibility: hidden;
+  background: white;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.details div {
+  margin: 5px 0px;
+}
+/*# sourceMappingURL=style.css.map */
