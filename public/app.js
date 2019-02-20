@@ -1,9 +1,13 @@
-const render = async () => {
+const fetchData = async () => {
+  const dataset = await axios.get('http://localhost:8000/dataset');
+  return dataset.data;
+}
+
+const render = (dataset, spinner) => {
   d3.select('svg').remove();
   d3.selectAll('.details').remove();
-
-  const data = await axios.get('./dataset.json');
-  const dataset = data.data;
+  if (spinner) spinner.stop();
+  d3.select('.title').text('NBA Real Plus-Minus 2018/2019');
 
   const w = window.innerWidth;
   const h = window.innerHeight;
@@ -21,15 +25,24 @@ const render = async () => {
     .domain([d3.min(dataset, d => parseFloat(d['mpg'])), d3.max(dataset, d => parseFloat(d['mpg']))])
     .range([5, 20])
 
-  const tooltip = d3.select("#visualization")
-    .append("div")
-    .attr('class', 'details');
+  const tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .html(d => `
+    <div class='details'><img src='./nba_logo/${d['team']}.svg' class='small-img'><span>${d['name']}</span></div>
+    <div><span class='bold'>MPG:</span> ${d['mpg']}</div>
+    <div><span class='bold'>ORPM:</span> ${d['orpm']}</div>
+    <div><span class='bold'>DRPM:</span> ${d['drpm']}</div>
+    <div><span class='bold'>TRPM:</span> ${(parseFloat(d['orpm']) + parseFloat(d['drpm'])).toFixed(2)}</div>
+    `)
+    .direction(d => parseFloat(d['orpm']) > 0 ? 'w' : 'e')
+    .offset(d => parseFloat(d['orpm']) > 0 ? [0, -10] : [0, 10])
 
   const svg = d3.select("#visualization")
     .append("svg")
     .attr('width', w)
     .attr('height', h)
     .attr('class', 'grad')
+    .call(tip)
 
   const defs = svg.selectAll('defs')
     .data(dataset)
@@ -59,21 +72,8 @@ const render = async () => {
     .attr('cy', d => yScale(parseFloat(d['drpm'])))
     .attr('r', d => rScale(parseFloat(d['mpg'])))
     .attr('class', 'over')
-    .on("mouseover", d => {
-      tooltip.html(`
-          <div><span>${d['name']}</span><span>${d['team']}</span></div>
-          <div><strong>MPG:</strong> ${d['mpg']}</div>
-          <div><strong>ORPM:</strong> ${d['orpm']}</div>
-          <div><strong>DRPM:</strong> ${d['drpm']}</div>
-          <div><strong>TRPM:</strong> ${(parseFloat(d['orpm']) + parseFloat(d['drpm'])).toFixed(2)}</div>
-          `)
-        .style("visibility", "visible")
-        .style("top", `${yScale(parseFloat(d['drpm']))}px`).style("left", `${xScale(parseFloat(d['orpm'])) + 5}px`);
-    })
-    // .on("mousemove", () => tooltip.style("top", (event.pageY - 10) + "px").style("left", (event.pageX + 10) + "px"))
-    .on("mouseout", () => tooltip.style("visibility", "hidden"))
-  // .append('title')
-  // .text(d => d['name'])
+    .on("mouseover", tip.show)
+    .on("mouseout", tip.hide)
 
   /**
    * 
@@ -110,9 +110,23 @@ const render = async () => {
   d3.select('.y-axis g:nth-child(6) line').attr('opacity', 1);
 }
 
-function main() {
-  render();
-  window.addEventListener("resize", render);
+async function main() {
+  const opts = {
+    lines: 15, // The number of lines to draw
+    length: 25, // The length of each line
+    width: 1, // The line thickness
+    radius: 30, // The radius of the inner circle
+    color: ['#ff7979', '#f6e58d', '#badc58', '#20bf6b'], // #rgb or #rrggbb or array of colors
+    speed: 1.9, // Rounds per second
+    trail: 60, // Afterglow percentage
+    className: 'spinner', // The CSS class to assign to the spinner
+  };
+
+  const target = document.getElementById('loading');
+  const spinner = new Spinner(opts).spin(target);
+  const dataset = await fetchData();
+  render(dataset, spinner);
+  window.addEventListener("resize", () => render(dataset, null));
 }
 
 main();

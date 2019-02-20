@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+html, body {
+  overflow: hidden;
+}
+
+.spin-container {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+.spin-container:before {
+  content: 'Loading data...';
+  color: white;
+  position: absolute;
+  font-weight: 300;
+  top: 25%;
+  left: 50%;
+  text-align: center;
+  font-weight: 200;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 2em;
+}
+
+#visualization {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.d3-tip {
+  position: relative;
+  z-index: 9999;
+  line-height: 1;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  border-radius: 4px;
+}
+
+.d3-tip div {
+  margin: 5px 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.d3-tip:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  pointer-events: none;
+}
+
+.d3-tip.w:after {
+  content: "\25B6";
+  margin: -4px 0 0 -1px;
+  top: 50%;
+  left: 100%;
+}
+
+.d3-tip.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 0;
+  top: 50%;
+  left: -8px;
+}
+
+.small-img {
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+}
+
+.details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: white;
+  border-radius: 2px;
+  color: black;
+  padding: 0px 5px;
+  margin-bottom: 10px !important;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.title {
+  pointer-events: none;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  z-index: 9000;
+  font-size: 2em;
+  font-weight: 200;
+}
+
+.grad {
+  background-image: -webkit-gradient(linear, left bottom, right top, from(#ff7979), color-stop(40%, #f6e58d), color-stop(60%, #badc58), to(#20bf6b));
+  background-image: linear-gradient(left bottom, #ff7979 0%, #f6e58d 40%, #badc58 60%, #20bf6b 100%);
+}
+
+.over:hover {
+  stroke: rgba(0, 0, 0, 0.7);
+  stroke-width: 1;
+  fill: #f8f8f8;
+}
+/*# sourceMappingURL=style.css.map */

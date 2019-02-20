@@ -7,15 +7,20 @@
   <meta http-equiv='X-UA-Compatible' content='ie=edge'>
   <title>NBA Real Plus-Minus</title>
 
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,600,800" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,600" rel="stylesheet">
   <link rel='stylesheet' href='style.css'>
 </head>
 
 <body>
-  <p class="title">NBA Real Plus-Minus 2018/2019</p>
+  <p class="title"></p>
+  <div class='spin-container'>
+    <div id='loading'></div>
+  </div>
   <div id='visualization'></div>
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src='https://unpkg.com/d3-tip@0.7.1'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.1/spin.min.js'></script>
   <script src='app.js'></script>
 </body>
 

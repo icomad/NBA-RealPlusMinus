@@ -1,6 +1,6 @@
-const rp = require('request-promise');
-const fs = require('fs');
+const router = require('express').Router();
 const cheerio = require('cheerio');
+const axios = require('axios');
 
 const url = 'http://www.espn.com/nba/statistics/rpm/_/page/';
 const row = '.tablehead tr:not(:first-child)';
@@ -90,11 +90,11 @@ const lookupTable = {
   },
   'NO': {
     color: '(0,22,65,1)',
-    logo: 'NOL'
+    logo: 'NOP'
   },
   'NO/': {
     color: '(0,22,65,1)',
-    logo: 'NOL'
+    logo: 'NOP'
   },
   'NY': {
     color: '(245,132,38,1)',
@@ -150,11 +150,11 @@ const lookupTable = {
   },
 };
 
-(async () => {
+const getDataset = async () => {
   let dataset = [];
   for (let page = 1; page < 14; page++) {
-    const html = await rp(url + page);
-    const $ = cheerio.load(html);
+    const html = await axios.get(url + page);
+    const $ = cheerio.load(html.data);
     $(row).each((index, element) => {
       const pos = parseInt($(element).find(rank).text()) - 1;
       const teamName = $(element).find(team).text().slice(0, 3);
@@ -164,13 +164,21 @@ const lookupTable = {
         orpm: $(element).find(orpm).text(),
         drpm: $(element).find(drpm).text(),
         color: lookupTable[teamName].color,
-        logo: lookupTable[teamName].logo,
+        team: lookupTable[teamName].logo,
       }
       dataset[pos] = data;
-      fs.appendFile('dataset.txt', JSON.stringify(data), e => {
-        if (e) throw e;
-      })
     });
   }
   return dataset;
-})();
+};
+
+router.get('/', async (req, res) => {
+  try {
+    const dataset = await getDataset();
+    res.json(dataset);
+  } catch (error) {
+    console.log(error);
+  }
+})
+
+module.exports = router;
