@@ -1,7 +1,29 @@
+const checkCachedData = async () => {
+  if (localStorage.getItem('dataset')) {
+    const localDataset = JSON.parse(localStorage.getItem('dataset'));
+    if (new Date(localDataset[0].timeLimit) < new Date()) {
+      localStorage.removeItem('dataset')
+      return await fetchData();
+    } else {
+      localDataset.shift();
+      return localDataset;
+    }
+  } else return await fetchData();
+}
+
 const fetchData = async () => {
-  const apiURL = 'http://nba-rpm.icomad.me:8000/dataset';
-  const dataset = await axios.get(apiURL);
-  return dataset.data;
+  try {
+    const apiURL = 'http://nba-rpm.icomad:8000/dataset';
+    const dataset = await axios.get(apiURL);
+    const timeLimit = new Date();
+    timeLimit.setHours(timeLimit.getHours() + 4);
+    dataset.data.unshift({ timeLimit });
+    localStorage.setItem('dataset', JSON.stringify(dataset.data));
+    dataset.data.shift();
+    return dataset.data;
+  } catch (error) {
+    console.log(error);
+  }
 }
 
 const render = (dataset, spinner) => {
@@ -125,7 +147,7 @@ async function main() {
 
   const target = document.getElementById('loading');
   const spinner = new Spinner(opts).spin(target);
-  const dataset = await fetchData();
+  const dataset = await checkCachedData();
   render(dataset, spinner);
   window.addEventListener("resize", () => render(dataset, null));
 }
