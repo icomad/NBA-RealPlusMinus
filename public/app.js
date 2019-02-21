@@ -1,5 +1,5 @@
 const fetchData = async () => {
-  const apiURL = process.env.apiNBAURL || 'http://localhost:8000/dataset';
+  const apiURL = 'http://104.248.246.88:8000/dataset';
   const dataset = await axios.get(apiURL);
   return dataset.data;
 }
