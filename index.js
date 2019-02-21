@@ -6,4 +6,5 @@ app.use(express.static('public'));
 
 app.use('/dataset', require('./scraperRoute'));
 
-app.listen(8000, console.log('Server started...'));
+const PORT = process.env.PORT || 8000;
+app.listen(PORT, console.log(`Server started on port ${PORT}...`));
