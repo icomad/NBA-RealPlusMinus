@@ -13,7 +13,7 @@ const checkCachedData = async () => {
 
 const fetchData = async () => {
   try {
-    const apiURL = 'http://nba-rpm.icomad:8000/dataset';
+    const apiURL = 'http://nba-rpm.icomad.me:8000/dataset';
     const dataset = await axios.get(apiURL);
     const timeLimit = new Date();
     timeLimit.setHours(timeLimit.getHours() + 4);
