@@ -129,7 +129,7 @@ const render = (dataset, spinner) => {
   d3.selectAll('.domain').remove();
   d3.selectAll('.tick line').attr('opacity', .2);
   d3.selectAll('.tick text').attr('font-size', 16);
-  d3.select('.x-axis g:nth-child(5) line').attr('opacity', 1);
+  d3.select('.x-axis g:nth-child(6) line').attr('opacity', 1);
   d3.select('.y-axis g:nth-child(6) line').attr('opacity', 1);
 }
 
